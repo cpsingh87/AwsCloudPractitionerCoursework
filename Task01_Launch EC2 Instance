@@ -40,3 +40,11 @@ yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
 echo "<h1>Hello from Charan's EC2 Web Server!</h1>" > /var/www/html/index.html
+
+### 3. **Now go to EC2 instances Dashboard and wait for Instance to Start**
+
+### 4. **Open the Website**
+- **Copy the Public IP address of the Instance**
+- ** Open Chrome Browser and Type http://<publicIP>** And Your Page will load
+
+
