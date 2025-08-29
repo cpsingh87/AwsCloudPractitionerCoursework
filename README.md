@@ -6,7 +6,7 @@ This repository contains a series of hands-on tasks performed as part of my AWS 
 
 | Task No. | Title | Description |
 |----------|-------|-------------|
-| 01       | Launch EC2 Instance and  | Create and configure a basic EC2 instance |
+| 01       | Launch EC2 Instance| Create and configure a basic EC2 instance and host a website|
 
 
 
