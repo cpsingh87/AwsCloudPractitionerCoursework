@@ -33,7 +33,6 @@ Launch an Amazon EC2 instance and use a **User Data script** to automatically in
 ### 2. **Add User Data Script**
 Used the following script to install Apache and deploy a basic HTML page:
 
-```bash
 #!/bin/bash
 yum update -y
 yum install -y httpd
